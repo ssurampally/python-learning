@@ -1,0 +1,10 @@
+# Functions in Phython
+
+def adding_numbers(a,b):
+    c = a + b
+    d = c * a
+    return d
+
+result = adding_numbers(5,3)
+
+print(result)

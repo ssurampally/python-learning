@@ -1,0 +1,10 @@
+import random
+lekhaguess = int(input())
+
+systemnumber= random.randint(1,5)
+if lekhaguess < systemnumber:
+ print('incorrect!')  
+elif lekhaguess > systemnumber:
+ print('incorrect!')
+elif lekhaguess==systemnumber:
+ print('You got it!')

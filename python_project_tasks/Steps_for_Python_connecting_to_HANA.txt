@@ -2,10 +2,12 @@ HANA Connectivity from Python Interface:
 
 Prerequisite:
 
-1. Install Python softward from python.org.
+1. Install Python software from python.org.
 2. Use VS code editor, install python extension there.
 3. Create a Workspace for the Python work.
 4. In the  VS code editor - create environment from the command pallete then create .venv
 5. Reopen the vS code editor - environment is used by default. then run the pip install for modules.
-         In this scenario - pip install hdbcli
+         In this scenario - pip3 install hdbcli
 6. You can use the Python program to connect to HANA.
+
+https://developers.sap.com/tutorials/hana-clients-python.html

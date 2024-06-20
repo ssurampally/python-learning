@@ -8,6 +8,10 @@ Prerequisite:
 4. In the  VS code editor - create environment from the command pallete then create .venv
 5. Reopen the vS code editor - environment is used by default. then run the pip install for modules.
          In this scenario - pip3 install hdbcli
+          or 
+         py -m pip install hdbcli
+         py -m pip install pandas
+
 6. You can use the Python program to connect to HANA.
 
 https://developers.sap.com/tutorials/hana-clients-python.html
